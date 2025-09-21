@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=pkmenu
+Comment=Start the pkmenu PolicyKit agent
+Exec=pkmenu -l dmenu
+Terminal=false
+Type=Application
+NoDisplay=true
+
